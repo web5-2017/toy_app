@@ -11,4 +11,4 @@ Objetivo é desenvolver um toy demo para mostrar o poder o Rails.
   -  Validar o `content` com no maximo 140 caracteres;
   -  Relacionar user e micropost com `has_many` e `belongs_to`;
   -  Validar o `content` para que não seja nulo com `presence: true`;
-  -  Validar o user usando `FILL_IN` e `presence: true`;
+  -  Validar o user usando `presence: true`;
