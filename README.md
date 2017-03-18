@@ -1,24 +1,8 @@
-# README
+# WEB-5 UTFPR
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esse é a atividade do `Segundo capitulo` do livo `RUBY ON RAILS TUTORIAL (RAILS 5) : Michael Hartl`.
 
-Things you may want to cover:
+Objetivo é desenvolver um toy demo para mostrar o poder o Rails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-- Primeiro passo é o padrão de criar a aplicação com o `rails new toy_app`, depois configurar a Gemfile e por fim iniciar o git.
+-- Depois Criar um `hello, world!`
